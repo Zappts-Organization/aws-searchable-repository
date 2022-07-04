@@ -1,3 +1,12 @@
+<br />
+<p align="center">
+  <a href="https://www.zappts.com.br/">
+    <img src="https://uploads-ssl.webflow.com/60d39ec767d1cd6ee3eb6f5e/6122c24c585295aac26de440_zappts-logo.svg" height="60">
+  </a>
+
+  <h3 align="center">Universizappts</h3>
+</p>
+
 ## Sobre o Projeto
 
 Este repositório contém um modelo do AWS SAM que implanta um aplicativo sem servidor. Esse aplicativo usa serviços do Amazon ML, como Comprehend e Rekognition, para indexar documentos e imagens e, em seguida, envia os resultados ao Elasticsearch para indexação rápida.
@@ -49,3 +58,12 @@ Siga os prompts no processo de implantação para definir o nome da pilha, a reg
 ```
 
 Esta arquitetura segue o modelo criado pelo James Beswick, disponível em https://aws.amazon.com/pt/blogs/compute/creating-a-searchable-enterprise-document-repository/
+
+## Contato
+
+Zappts - **zappts@zappts.com**
+<br />
+<p align="center">
+  <a href="https://www.zappts.com.br/">
+ <img src="https://uploads-ssl.webflow.com/60d39ec767d1cd6ee3eb6f5e/6122c24c585295aac26de440_zappts-logo.svg" height="60" alt="Logo">
+  </a>
